@@ -16,6 +16,9 @@ var (
 
 func getTweet(api *anaconda.TwitterApi, tweetID int64) (anaconda.Tweet, error) {
 	args := url.Values{}
+	args.Add("include_entities", "true")
+	args.Add("include_ext_alt_text", "true")
+	args.Add("include_card_uri", "true")
 	tweet, err := api.GetTweet(tweetID, args)
 	if err != nil {
 		return anaconda.Tweet{}, err
