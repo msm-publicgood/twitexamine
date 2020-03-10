@@ -1,0 +1,173 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Mon Mar 09 00:36:53 +0000 2020",
+  "display_text_range": [
+    0,
+    185
+  ],
+  "entities": {
+    "urls": [
+      {
+        "indices": [
+          162,
+          185
+        ],
+        "url": "https://t.co/vFpyMFbOdg",
+        "display_url": "arstechnica.com/science/2020/0…",
+        "expanded_url": "https://arstechnica.com/science/2020/03/dont-panic-the-comprehensive-ars-technica-guide-to-the-coronavirus/"
+      }
+    ],
+    "hashtags": [],
+    "url": {
+      "urls": null
+    },
+    "user_mentions": [],
+    "media": null
+  },
+  "extended_entities": {
+    "urls": null,
+    "hashtags": null,
+    "url": {
+      "urls": null
+    },
+    "user_mentions": null,
+    "media": null
+  },
+  "extended_tweet": {
+    "full_text": "",
+    "display_text_range": null,
+    "entities": {
+      "urls": null,
+      "hashtags": null,
+      "url": {
+        "urls": null
+      },
+      "user_mentions": null,
+      "media": null
+    },
+    "extended_entities": {
+      "urls": null,
+      "hashtags": null,
+      "url": {
+        "urls": null
+      },
+      "user_mentions": null,
+      "media": null
+    }
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "filter_level": "",
+  "full_text": "If you really want to help, wash your hands, cover your mouth, \u0026amp; share good information: Don’t Panic: The comprehensive Ars Technica guide to the coronavirus https://t.co/vFpyMFbOdg",
+  "has_extended_profile": false,
+  "id": 1236813172990005249,
+  "id_str": "1236813172990005249",
+  "in_reply_to_screen_name": "",
+  "in_reply_to_status_id": 0,
+  "in_reply_to_status_id_str": "",
+  "in_reply_to_user_id": 0,
+  "in_reply_to_user_id_str": "",
+  "is_translation_enabled": false,
+  "lang": "en",
+  "place": {
+    "attributes": null,
+    "bounding_box": {
+      "coordinates": null,
+      "type": ""
+    },
+    "contained_within": null,
+    "country": "",
+    "country_code": "",
+    "full_name": "",
+    "geometry": {
+      "coordinates": null,
+      "type": ""
+    },
+    "id": "",
+    "name": "",
+    "place_type": "",
+    "polylines": null,
+    "url": ""
+  },
+  "quoted_status_id": 0,
+  "quoted_status_id_str": "",
+  "quoted_status": null,
+  "possibly_sensitive": false,
+  "possibly_sensitive_appealable": false,
+  "retweet_count": 0,
+  "retweeted": false,
+  "retweeted_status": null,
+  "source": "\u003ca href=\"http://micro.blog/\" rel=\"nofollow\"\u003eMicro.blog\u003c/a\u003e",
+  "scopes": null,
+  "text": "If you really want to help, wash your hands, cover your mouth, \u0026amp; share good information: Don’t Panic: The comprehensive Ars Technica guide to the coronavirus https://t.co/vFpyMFbO",
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Tue Mar 17 22:15:47 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "CTO of @publicgood. Feed only goes back 28 days. See my site for everything else. Bear in mind, I could be wrong.",
+    "email": "",
+    "entities": {
+      "urls": null,
+      "hashtags": null,
+      "url": {
+        "urls": [
+          {
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/wL5YMCRydm",
+            "display_url": "michael.manley.org",
+            "expanded_url": "https://michael.manley.org/"
+          }
+        ]
+      },
+      "user_mentions": null,
+      "media": null
+    },
+    "favourites_count": 10,
+    "follow_request_sent": false,
+    "followers_count": 384,
+    "following": false,
+    "friends_count": 6,
+    "geo_enabled": false,
+    "has_extended_profile": false,
+    "id": 24967416,
+    "id_str": "24967416",
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "lang": "",
+    "listed_count": 25,
+    "location": "Chicago, IL",
+    "name": "Michael S. Manley",
+    "notifications": false,
+    "profile_background_color": "FFFFFF",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/24967416/1538340908",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/809789664857038848/gSDKkxfH_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/809789664857038848/gSDKkxfH_normal.jpg",
+    "profile_link_color": "0000FF",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "FFFFFF",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "protected": false,
+    "screen_name": "michaelsmanley",
+    "show_all_inline_media": false,
+    "status": null,
+    "statuses_count": 16,
+    "time_zone": "",
+    "url": "https://t.co/wL5YMCRydm",
+    "utc_offset": 0,
+    "verified": false,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+  },
+  "withheld_copyright": false,
+  "withheld_in_countries": null,
+  "withheld_scope": ""
+}

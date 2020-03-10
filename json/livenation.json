@@ -1,0 +1,204 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Wed Mar 04 23:00:01 +0000 2020",
+  "display_text_range": [
+    0,
+    184
+  ],
+  "entities": {
+    "urls": [
+      {
+        "indices": [
+          161,
+          184
+        ],
+        "url": "https://t.co/DwyodqByjG",
+        "display_url": "livemu.sc/EnriqueRicky20…",
+        "expanded_url": "http://livemu.sc/EnriqueRicky2020"
+      }
+    ],
+    "hashtags": [],
+    "url": {
+      "urls": null
+    },
+    "user_mentions": [
+      {
+        "name": "Enrique Iglesias",
+        "indices": [
+          76,
+          92
+        ],
+        "screen_name": "enriqueiglesias",
+        "id": 46452468,
+        "id_str": "46452468"
+      },
+      {
+        "name": "Ricky Martin",
+        "indices": [
+          97,
+          110
+        ],
+        "screen_name": "ricky_martin",
+        "id": 40255499,
+        "id_str": "40255499"
+      },
+      {
+        "name": "Sebastian Yatra",
+        "indices": [
+          123,
+          138
+        ],
+        "screen_name": "SebastianYatra",
+        "id": 1029323618,
+        "id_str": "1029323618"
+      }
+    ],
+    "media": null
+  },
+  "extended_entities": {
+    "urls": null,
+    "hashtags": null,
+    "url": {
+      "urls": null
+    },
+    "user_mentions": null,
+    "media": null
+  },
+  "extended_tweet": {
+    "full_text": "",
+    "display_text_range": null,
+    "entities": {
+      "urls": null,
+      "hashtags": null,
+      "url": {
+        "urls": null
+      },
+      "user_mentions": null,
+      "media": null
+    },
+    "extended_entities": {
+      "urls": null,
+      "hashtags": null,
+      "url": {
+        "urls": null
+      },
+      "user_mentions": null,
+      "media": null
+    }
+  },
+  "favorite_count": 23182,
+  "favorited": false,
+  "filter_level": "",
+  "full_text": "❤️ THIS TWEET ❤️ to get a notification reminder when tickets go on sale for @enriqueiglesias and @ricky_martin’s tour with @SebastianYatra!\n\nGet more info here: https://t.co/DwyodqByjG",
+  "has_extended_profile": false,
+  "id": 1235339242664005634,
+  "id_str": "1235339242664005634",
+  "in_reply_to_screen_name": "",
+  "in_reply_to_status_id": 0,
+  "in_reply_to_status_id_str": "",
+  "in_reply_to_user_id": 0,
+  "in_reply_to_user_id_str": "",
+  "is_translation_enabled": false,
+  "lang": "en",
+  "place": {
+    "attributes": null,
+    "bounding_box": {
+      "coordinates": null,
+      "type": ""
+    },
+    "contained_within": null,
+    "country": "",
+    "country_code": "",
+    "full_name": "",
+    "geometry": {
+      "coordinates": null,
+      "type": ""
+    },
+    "id": "",
+    "name": "",
+    "place_type": "",
+    "polylines": null,
+    "url": ""
+  },
+  "quoted_status_id": 0,
+  "quoted_status_id_str": "",
+  "quoted_status": null,
+  "possibly_sensitive": false,
+  "possibly_sensitive_appealable": false,
+  "retweet_count": 2591,
+  "retweeted": false,
+  "retweeted_status": null,
+  "source": "\u003ca href=\"https://www.qwvr.co\" rel=\"nofollow\"\u003eArrow.\u003c/a\u003e",
+  "scopes": null,
+  "text": "❤️ THIS TWEET ❤️ to get a notification reminder when tickets go on sale for @enriqueiglesias and @ricky_martin’s tour with @SebastianYatra!\n\nGet more info here: https://t.co/",
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Tue Oct 23 17:37:27 +0000 2007",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "Live Nation is the largest concert producer. Follow for Concert Announcements, On Sales \u0026 Presales, Promotions, Artist Exclusives.",
+    "email": "",
+    "entities": {
+      "urls": null,
+      "hashtags": null,
+      "url": {
+        "urls": [
+          {
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/oQbll9uo8a",
+            "display_url": "livemu.sc/GetConcertTick…",
+            "expanded_url": "http://livemu.sc/GetConcertTickets"
+          }
+        ]
+      },
+      "user_mentions": null,
+      "media": null
+    },
+    "favourites_count": 10610,
+    "follow_request_sent": false,
+    "followers_count": 537900,
+    "following": false,
+    "friends_count": 25018,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 9629222,
+    "id_str": "9629222",
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "lang": "",
+    "listed_count": 5685,
+    "location": "Worldwide",
+    "name": "Live Nation",
+    "notifications": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/9629222/1580513610",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1146458509526962177/uki0Y2M5_normal.png",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1146458509526962177/uki0Y2M5_normal.png",
+    "profile_link_color": "C90000",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "CCCCCC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "LiveNation",
+    "show_all_inline_media": false,
+    "status": null,
+    "statuses_count": 77628,
+    "time_zone": "",
+    "url": "https://t.co/oQbll9uo8a",
+    "utc_offset": 0,
+    "verified": true,
+    "withheld_in_countries": null,
+    "withheld_scope": ""
+  },
+  "withheld_copyright": false,
+  "withheld_in_countries": null,
+  "withheld_scope": ""
+}
